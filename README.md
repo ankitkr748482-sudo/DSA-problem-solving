@@ -7,8 +7,18 @@ Welcome to my Data Structures and Algorithms (DSA) repository! This repository c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitkr748482-sudo/DSA-problem-solving/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/ankitkr748482-sudo/DSA-problem-solving/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitkr748482-sudo/DSA-problem-solving/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/ankitkr748482-sudo/DSA-problem-solving/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ankitkr748482-sudo/DSA-problem-solving/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ankitkr748482-sudo/DSA-problem-solving/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
