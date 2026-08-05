@@ -18,6 +18,7 @@ Welcome to my Data Structures and Algorithms (DSA) repository! This repository c
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ankitkr748482-sudo/DSA-problem-solving/tree/master/0049-group-anagrams) |
+| [0520-detect-capital](https://github.com/ankitkr748482-sudo/DSA-problem-solving/tree/master/0520-detect-capital) |
 ## Sorting
 |  |
 | ------- |
